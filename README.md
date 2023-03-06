@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsanrehmani4&label=Profile+Views&color=0e75b6&style=flat" alt="ahsanrehmani4" /> </p>
 
 - :e-mail: How to reach me: <a href="mailto:rehmaniahsan15@gmail.com">rehmaniahsan15@gmail.com</a>
-- :ghost: Snapchat: ahsanrehmani4
+- :ghost: Snapchat: <a href="https://www.snapchat.com/add/ahsanrehmani4" target="_blank">ahsanrehmani4</a>
 
 <!--
 **ahsanrehmani4/ahsanrehmani4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
