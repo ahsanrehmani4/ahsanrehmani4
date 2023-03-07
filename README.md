@@ -4,11 +4,12 @@
 
 ##### :computer: Back-end Developer
 
+- ☕ <a href="https://www.buymeacoffee.com/ahsanrehmani4">`Buy Me A Coffee`</a>
 - 🌱 I’m currently learning React
-- :e-mail: How to reach me: <a href="mailto:rehmaniahsan15@gmail.com">rehmaniahsan15@gmail.com</a>
-- :ghost: Snapchat: <a href="https://www.snapchat.com/add/ahsanrehmani4" target="_blank">ahsanrehmani4</a>
-- :video_game: Discord: <a href="https://discord.com/users/796633856802291723" target="_blank">ahsanrehmani4</a>
-- :alien: Reddit: <a href="https://reddit.com/user/ahsanrehmani4" target="_blank">ahsanrehmani4</a>
+- 📧 How to reach me: <a href="mailto:rehmaniahsan15@gmail.com">rehmaniahsan15@gmail.com</a>
+- 👻 Snapchat: <a href="https://www.snapchat.com/add/ahsanrehmani4" target="_blank">ahsanrehmani4</a>
+- 🎮 Discord: <a href="https://discord.com/users/796633856802291723" target="_blank">ahsanrehmani4</a>
+- 👽 Reddit: <a href="https://reddit.com/user/ahsanrehmani4" target="_blank">ahsanrehmani4</a>
 
 ```php
 <?php
